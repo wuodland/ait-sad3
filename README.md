@@ -24,7 +24,7 @@ We made this as this is a widely used concept and seemed to be a nice idea for a
 **Describe your usage of serverless technology**
 
 We used AWS (EC2 micro instance) for deployment of the docker images. AWS + docker usage means we can scale our system in the future when the number of users rise.
-
+http://18.220.212.251/ is the url where it is running.
 
 
 **Describe your implementation briefly (best with sample code snippets)** <br/>
